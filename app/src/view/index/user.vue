@@ -1,8 +1,6 @@
 <template>
     <div>
-        <router-link to="/login">
-
-        </router-link>
+        我的
         <foot-comp></foot-comp>
     </div>
 </template>
@@ -12,6 +10,6 @@
         components:{
             footComp,
         }
-    }
+    }    
 </script>
 

@@ -8,7 +8,7 @@
     import footComp from "@/components/index/footComp"
     export default {
         components:{
-            footComp
+            footComp,
         }
-    }
+    }    
 </script>
